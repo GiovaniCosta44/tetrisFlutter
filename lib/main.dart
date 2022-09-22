@@ -53,7 +53,7 @@ class _TetrisState extends State<Tetris> {
                         children: <Widget>[
                           NextBlock(),
                           SizedBox(height: 30,),
-                          RaisedButton(
+                          ElevatedButton(
                             child: Text(
                               'Start',
                               style: TextStyle(
@@ -61,7 +61,9 @@ class _TetrisState extends State<Tetris> {
                                 color: Colors.grey[200],
                               ),
                             ),
-                            color: Colors.indigo[700],
+                            style: ButtonStyle(
+                              backgroundColor: MaterialStateProperty.all(Colors.indigo[700]),
+                            ),
                             onPressed: () {},
                           ),
                         ],
