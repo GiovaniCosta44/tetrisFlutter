@@ -88,7 +88,6 @@ Duration duration = Duration(milliseconds: REFRESH_RATE);
         if (!checkOnEdge(action!)) {
           block?.move(action!);
         }
-        block?.move(action!);
       }
 
       // Ação Reversa se um bloco hitar o outro! chama papix
