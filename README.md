@@ -19,6 +19,14 @@
 
  Um jogo para Android desenvolvido em Flutter.
  
+ ## Aplicação
+
+<div align="center">
+
+![WhatsApp Image 2022-11-23 at 22 06 56](https://user-images.githubusercontent.com/102265424/203673357-a9860374-15b7-4b22-a98a-09acba8096a8.jpeg)
+
+</div>
+ 
 
 ## Pré-Requisitos 
 
@@ -28,6 +36,7 @@ Antes de começar, você precisa ter instalado os seguintes recursos:
 + [Flutter](https://docs.flutter.dev/get-started/install/windows#get-the-flutter-sdk)
 + [VSCode](https://code.visualstudio.com/download)
 + [Android Studio](https://developer.android.com/studio)
+
 
 ## Execução
 
