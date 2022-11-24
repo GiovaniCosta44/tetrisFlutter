@@ -7,7 +7,6 @@
 
 <p align="center">
  <a href="#descrição">Descrição</a> •
- <a href="#dependências">Dependências</a> •
  <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#execução">Execução</a> •
  <a href="#autores">Autores</a> •
