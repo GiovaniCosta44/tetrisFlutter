@@ -42,8 +42,7 @@ Antes de começar, você precisa ter instalado os seguintes recursos:
 
 ## Execução
 
-Você pode [acessar o código fonte do projeto](https://github.com/GiovaniCosta44/tetrisFlutter) ou [baixá-lo]
-
+Você pode [acessar o código fonte do projeto](https://github.com/GiovaniCosta44/tetrisFlutter).
 
 
 ## Versão
