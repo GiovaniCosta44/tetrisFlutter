@@ -1,16 +1,54 @@
-# tetris
 
-A new Flutter project.
+<h1>TETRIS</h1>
 
-## Getting Started
+### 
 
-This project is a starting point for a Flutter application.
+<p align="center">Tópicos.</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+ <a href="#descrição">Descrição</a> •
+ <a href="#dependências">Dependências</a> •
+ <a href="#pré-requisitos">Pré Requisitos</a> •
+ <a href="#execução">Execução</a> •
+ <a href="#autores">Autores</a> •
+ <a href="#histórico-de-versão">Histórico-de-versão</a>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Descrição 
+
+ Um jogo para Android desenvolvido em Flutter.
+ 
+
+## Pré-Requisitos 
+
+Antes de começar, você precisa ter instalado os seguintes recursos: 
+
++ [Git](https://git-scm.com/download/win)
++ [Flutter](https://docs.flutter.dev/get-started/install/windows#get-the-flutter-sdk)
++ [VSCode](https://code.visualstudio.com/download)
++ [Android Studio](https://developer.android.com/studio)
+
+## Execução
+
+Você pode [acessar o código fonte do projeto](https://github.com/GiovaniCosta44/tetrisFlutter) ou [baixá-lo]
+
+
+
+## Download do jogo
+
+
+
+## Histórico de versão
+
++ 1.0
+
+
+## Autores
+
++ [Ana Paula da Siva](https://github.com/anaps28)
++ [Giovani Costa](https://github.com/GiovaniCosta44)
++ Henrique Suhr
++ [Matheus Passareli](https://github.com/MatheusPassareli) 
++ Prof. Jose Matias Lemes Filho 
