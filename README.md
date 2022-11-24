@@ -7,10 +7,11 @@
 
 <p align="center">
  <a href="#descrição">Descrição</a> •
+ <a href="#aplicação">Aplicação</a> •
  <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#execução">Execução</a> •
  <a href="#autores">Autores</a> •
- <a href="#histórico-de-versão">Histórico-de-versão</a>
+ <a href="#versão">Versão</a>
 </p>
 
 ---
@@ -22,10 +23,11 @@
  ## Aplicação
 
 <div align="center">
-
-![WhatsApp Image 2022-11-23 at 22 06 56](https://user-images.githubusercontent.com/102265424/203673357-a9860374-15b7-4b22-a98a-09acba8096a8.jpeg)
+ 
+![WhatsApp Image 2022-11-23 at 22 06 56](https://user-images.githubusercontent.com/102265424/203674291-e730c27c-23c0-49d3-a837-5ede82fc879a.jpeg)
 
 </div>
+
  
 
 ## Pré-Requisitos 
@@ -44,11 +46,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/GiovaniCosta4
 
 
 
-## Download do jogo
-
-
-
-## Histórico de versão
+## Versão
 
 + 1.0
 
