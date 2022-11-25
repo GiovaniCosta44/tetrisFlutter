@@ -10,8 +10,8 @@
  <a href="#aplicação">Aplicação</a> •
  <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#execução">Execução</a> •
- <a href="#autores">Autores</a> •
- <a href="#versão">Versão</a>
+ <a href="#versão">Versão</a> •
+ <a href="#autores">Autores</a>
 </p>
 
 ---
