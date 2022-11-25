@@ -24,7 +24,7 @@
 
 <div align="center">
  
-![WhatsApp Image 2022-11-23 at 22 06 56](https://user-images.githubusercontent.com/102265424/203674291-e730c27c-23c0-49d3-a837-5ede82fc879a.jpeg)
+![WhatsApp Image 2022-11-23 at 22 47 40](https://user-images.githubusercontent.com/102265424/204059974-bf1ae3cb-013a-4d8e-9e20-51904cdb04bb.jpeg)
 
 </div>
 
