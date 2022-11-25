@@ -42,8 +42,14 @@ Antes de começar, você precisa ter instalado os seguintes recursos:
 
 ## Execução
 
-Você pode [acessar o código fonte do projeto](https://github.com/GiovaniCosta44/tetrisFlutter).
+<div align="justify">
 
+Para executar e testar o código, após ter instalado todos os itens do <a href="#pré-requisitos">Pré Requisitos</a>, acesse o VSCode e na barra de atividades escolha a opcao "navegador de arquivos", selecione a opcão "clonar repositorios". Copie e cole [o código fonte do projeto](https://github.com/GiovaniCosta44/tetrisFlutter). Selecine em qual pasta deseja salvar o projeto, assim que concluir o download, irá aparecer uma mensagem perguntanto se deseja abrir o projeto, confirme. 
+Caso acuse erro ao abrir o projeto, pode ser necessario baixar as bibliotecas. Para recuperar as bibliotecas necessarias, selecione a opcão "Terminal", "new terminal", com o terminal aberto digite "flutter pub get" + enter. Desta forma todas as bibliotecas necessárias serão recuperadas.
+
+Outra opcao para executar e testar o codigo é [baixá-lo](https://github.com/GiovaniCosta44/tetrisFlutter/archive/refs/heads/main.zip), extrair a pasta com o projeto. No VSCode vai em abrir pastas, seleciona a pasta com o projeto. Caso acuse erro, basta baixar as bibliotecas.
+
+</div>
 
 ## Versão
 
