@@ -12,6 +12,7 @@
  <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#execução">Execução</a> •
  <a href="#versão">Versão</a> •
+ <a href="#trabalhosfuturos">Trabalhos Futuros</a> •
  <a href="#autores">Autores</a>
 </p>
 
@@ -30,8 +31,9 @@ Um jogo desenvolvido em Flutter para dispositivo móveis que tem como objetivo e
 <div align="justify">
  
 O jogo foi desenvolvido como um projeto acadêmico para a disciplina Desenvolvimento para Sistemas Móveis do Curso Análise e Desenvolvimento de Sistemas da [Universidade São Francisco](https://www.usf.edu.br/) - Polo Itatiba. 
+ 
+Neste [video](https://youtu.be/Ff1SFZL5ruQ) você consegue vizualizar um pouco do projeto. 
 
-Aqui temos um [video](https://youtu.be/Ff1SFZL5ruQ) falando e demonstrando um pouco do projeto. 
 
  </div>
  
@@ -40,7 +42,13 @@ Aqui temos um [video](https://youtu.be/Ff1SFZL5ruQ) falando e demonstrando um po
 <div align="center">
  
 ![WhatsApp Image 2022-11-23 at 22 47 40](https://user-images.githubusercontent.com/102265424/204059974-bf1ae3cb-013a-4d8e-9e20-51904cdb04bb.jpeg)
+ 
+ </div>
 
+<div align="center">
+ 
+ [Download do jogo](https://github.com/GiovaniCosta44/tetrisFlutter/commit/f729c90a4a2bc2684050498f0c91e1a94e6371e6)
+ 
 </div>
 
  
@@ -70,7 +78,14 @@ Outra opcao para executar e testar o codigo é [baixá-lo](https://github.com/Gi
 
 + 1.0
 
+## Trabalhos Futuros
 
+<div align="justify">
+ 
+O jogo é compatível apenas para dispositivos móveis com sitema operacional Android, deixando aberto a possibilidade de desenvolvimento para ser compativel com diferentes sistemas operacionais.
+
+ </div>
+ 
 ## Autores
 
 + [Ana Paula da Siva](https://github.com/anaps28)
