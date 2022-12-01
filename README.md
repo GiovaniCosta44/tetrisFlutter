@@ -12,7 +12,7 @@
  <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#execução">Execução</a> •
  <a href="#versão">Versão</a> •
- <a href="#trabalhosfuturos">Trabalhos Futuros</a> •
+ <a href="#trabalhos-futuros">Trabalhos Futuros</a> •
  <a href="#autores">Autores</a>
 </p>
 
