@@ -7,6 +7,7 @@
 
 <p align="center">
  <a href="#descrição">Descrição</a> •
+ <a href="#objetivo">Objetivo</a> •
  <a href="#aplicação">Aplicação</a> •
  <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#execução">Execução</a> •
@@ -18,12 +19,20 @@
 
 ## Descrição 
 
+<div align="justify">
+ 
 Um jogo desenvolvido em Flutter para dispositivo móveis que tem como objetivo encaixar peças de formatos diferentes que giram sobre o próprio eixo em quatro posições diferentes, buscando atingir uma maior pontuação, sem deixar chegar ao topo. Confome uma linha sem lacunas é completada, ganha um ponto, caso atinja o topo é fim de jogo!
 
-## Objetivo 
+ </div>
  
-O jogo foi desenvolvido como um projeto acadêmico para a disciplina de Desenvolvimento para Sistemas Móveis, Curso Análise e Desenvolvimento de Sistemas da Universidade São Francisco - Polo Itatiba.
+## Objetivo 
 
+<div align="justify">
+ 
+O jogo foi desenvolvido como um projeto acadêmico para a disciplina Desenvolvimento para Sistemas Móveis do Curso Análise e Desenvolvimento de Sistemas da [Universidade São Francisco](https://www.usf.edu.br/) - Polo Itatiba.
+
+ </div>
+ 
  ## Aplicação
 
 <div align="center">
