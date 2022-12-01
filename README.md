@@ -29,7 +29,9 @@ Um jogo desenvolvido em Flutter para dispositivo móveis que tem como objetivo e
 
 <div align="justify">
  
-O jogo foi desenvolvido como um projeto acadêmico para a disciplina Desenvolvimento para Sistemas Móveis do Curso Análise e Desenvolvimento de Sistemas da [Universidade São Francisco](https://www.usf.edu.br/) - Polo Itatiba.
+O jogo foi desenvolvido como um projeto acadêmico para a disciplina Desenvolvimento para Sistemas Móveis do Curso Análise e Desenvolvimento de Sistemas da [Universidade São Francisco](https://www.usf.edu.br/) - Polo Itatiba. 
+
+Aqui temos um [video](https://youtu.be/Ff1SFZL5ruQ) falando e demonstrando um pouco do projeto. 
 
  </div>
  
