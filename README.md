@@ -18,8 +18,12 @@
 
 ## Descrição 
 
- Um jogo para Android desenvolvido em Flutter.
+Um jogo desenvolvido em Flutter para dispositivo móveis que tem como objetivo encaixar peças de formatos diferentes que giram sobre o próprio eixo em quatro posições diferentes, buscando atingir uma maior pontuação, sem deixar chegar ao topo. Confome uma linha sem lacunas é completada, ganha um ponto, caso atinja o topo é fim de jogo!
+
+## Objetivo 
  
+O jogo foi desenvolvido como um projeto acadêmico para a disciplina de Desenvolvimento para Sistemas Móveis, Curso Análise e Desenvolvimento de Sistemas da Universidade São Francisco - Polo Itatiba.
+
  ## Aplicação
 
 <div align="center">
