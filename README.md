@@ -22,7 +22,7 @@
 
 <div align="justify">
  
-Um jogo desenvolvido em Flutter para dispositivo móveis que tem como objetivo encaixar peças de formatos diferentes que giram sobre o próprio eixo em quatro posições diferentes, buscando atingir uma maior pontuação, sem deixar chegar ao topo. Confome uma linha sem lacunas é completada, ganha um ponto, caso atinja o topo é fim de jogo!
+Um jogo desenvolvido em Flutter para dispositivos móveis que tem como objetivo encaixar peças de formatos diferentes que giram sobre o próprio eixo em quatro posições diferentes, buscando atingir uma maior pontuação, sem deixar chegar ao topo. Conforme uma linha sem lacunas é completada, ganha um ponto, caso atinja o topo é fim de jogo!
 
  </div>
  
@@ -32,7 +32,7 @@ Um jogo desenvolvido em Flutter para dispositivo móveis que tem como objetivo e
  
 O jogo foi desenvolvido como um projeto acadêmico para a disciplina Desenvolvimento para Sistemas Móveis do Curso Análise e Desenvolvimento de Sistemas da [Universidade São Francisco](https://www.usf.edu.br/) - Polo Itatiba. 
  
-Neste [video](https://youtu.be/Ff1SFZL5ruQ) você consegue vizualizar um pouco do projeto. 
+Neste [vídeo](https://youtu.be/Ff1SFZL5ruQ) você consegue visualizar um pouco do projeto. 
 
 
  </div>
@@ -66,11 +66,11 @@ Antes de começar, você precisa ter instalado os seguintes recursos:
 ## Execução
 
 <div align="justify">
+ 
+Para executar e testar o código, após ter instalado todos os itens do <a href="#pré-requisitos">Pré Requisitos</a>, acesse o VSCode e na barra de atividades escolha a opção "navegador de arquivos", selecione a opção "clonar repositórios". Copie e cole o [o código fonte do projeto](https://github.com/GiovaniCosta44/tetrisFlutter). Selecione em qual pasta deseja salvar o projeto, assim que concluir o download, irá aparecer uma mensagem perguntando se deseja abrir o projeto, confirme. Caso acuse erro ao abrir o projeto, pode ser necessário baixar as bibliotecas. Para recuperar as bibliotecas necessárias, selecione a opção "Terminal", "new terminal", com o terminal aberto digite "flutter pub get" + enter. Desta forma todas as bibliotecas necessárias serão baixadas/recuperadas.
+ 
+Outra opção para executar e testar o código é [baixá-lo](https://github.com/GiovaniCosta44/tetrisFlutter/archive/refs/heads/main.zip), extrair a pasta com o projeto. No VSCode vai em abrir pastas, seleciona a pasta com o projeto. Caso acuse erro, basta baixar as bibliotecas.
 
-Para executar e testar o código, após ter instalado todos os itens do <a href="#pré-requisitos">Pré Requisitos</a>, acesse o VSCode e na barra de atividades escolha a opcao "navegador de arquivos", selecione a opcão "clonar repositorios". Copie e cole [o código fonte do projeto](https://github.com/GiovaniCosta44/tetrisFlutter). Selecine em qual pasta deseja salvar o projeto, assim que concluir o download, irá aparecer uma mensagem perguntanto se deseja abrir o projeto, confirme. 
-Caso acuse erro ao abrir o projeto, pode ser necessario baixar as bibliotecas. Para recuperar as bibliotecas necessarias, selecione a opcão "Terminal", "new terminal", com o terminal aberto digite "flutter pub get" + enter. Desta forma todas as bibliotecas necessárias serão recuperadas.
-
-Outra opcao para executar e testar o codigo é [baixá-lo](https://github.com/GiovaniCosta44/tetrisFlutter/archive/refs/heads/main.zip), extrair a pasta com o projeto. No VSCode vai em abrir pastas, seleciona a pasta com o projeto. Caso acuse erro, basta baixar as bibliotecas.
 
 </div>
 
@@ -82,7 +82,7 @@ Outra opcao para executar e testar o codigo é [baixá-lo](https://github.com/Gi
 
 <div align="justify">
  
-O jogo é compatível apenas para dispositivos móveis com sitema operacional Android, deixando aberto a possibilidade de desenvolvimento para ser compativel com diferentes sistemas operacionais.
+O jogo é compatível apenas para dispositivos móveis com sistema operacional Android, deixando aberto a possibilidade de desenvolvimento para se tornar compatível com diferentes sistemas operacionais.
 
  </div>
  
